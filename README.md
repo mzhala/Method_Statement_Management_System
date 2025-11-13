@@ -14,3 +14,10 @@ The **Method Management System** is a digital platform developed in **Ignition**
 
 This system enhances transparency and efficiency by digitizing manual processes, reducing paperwork, and ensuring all tool and method-related activities are properly tracked and documented.
 
+### **Demo Video**
+
+https://youtu.be/d0RF0Vn_Io8
+
+### **Demo Video - Mobile**
+
+https://youtu.be/h-GocXIsdbg
